@@ -1,2 +1,2 @@
-# in this project me and my mate try to make fault detection system for toyota-boshoku based in sakarya.
+#this project serves toyota-boshoku as a fault dashboard
 this project includes react.js springboot h2 database and jpa 
