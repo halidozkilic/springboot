@@ -1,2 +1,2 @@
-#this project serves toyota-boshoku as a fault dashboard
-this project includes react.js springboot h2 database and jpa 
+#this project serves to toyota-boshoku as a fault detection dashboard
+includes react + java
